@@ -875,3 +875,23 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:09:57] [Server thread/INFO]: [Not Secure] [Server] hola
 [20:10:40] [Server thread/INFO]: SimonPro74 was slain by Zombie
 [20:17:04] [Server thread/INFO]: SimonPro74 fell from a high place
+[20:35:20] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[20:35:20] [Server thread/INFO]: SimonPro74 left the game
+[20:35:29] [Server thread/INFO]: Stopping the server
+[20:35:29] [Server thread/INFO]: Stopping server
+[20:35:29] [Server thread/INFO]: Saving players
+[20:35:29] [Server thread/INFO]: Saving worlds
+[20:35:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:35:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[20:35:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:35:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:35:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:35:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[20:35:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:35:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:35:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:35:29] [Server thread/INFO]: Unloading server config for barteringstation
+[20:35:29] [Server thread/INFO]: Unloading server config for easyanvils
+[20:35:29] [Server thread/INFO]: Unloading server config for easymagic
+[20:35:29] [Server thread/INFO]: Unloading server config for hangglider
+[20:35:29] [Server thread/INFO]: Unloading server config for iteminteractions
