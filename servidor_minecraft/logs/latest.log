@@ -1041,3 +1041,5 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [05:13:09] [Server thread/INFO]: Unknown item 'minecraft:251'
 [05:13:09] [Server thread/INFO]: ...imonpro74 251 320<--[HERE]
 [05:13:56] [Server thread/INFO]: Gave 320 [White Concrete] to SimonPro74
+[05:42:47] [Server thread/INFO]: [Not Secure] [Server] hola
+[05:46:41] [Server thread/INFO]: SimonPro74 tried to swim in lava
