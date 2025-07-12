@@ -928,3 +928,5 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [02:13:38] [Server thread/INFO]: Villager class_1646['Unemployed'/30254, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
 [02:16:12] [Server thread/INFO]: [Not Secure] [Server] hola
 [02:30:40] [Server thread/INFO]: [Not Secure] [Server] hola
+[03:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5311ms or 106 ticks behind
+[03:18:34] [Server thread/INFO]: SimonPro74 tried to swim in lava
