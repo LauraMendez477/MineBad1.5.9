@@ -927,3 +927,4 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [02:13:14] [Server thread/INFO]: Villager class_1646['Unemployed'/30247, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
 [02:13:38] [Server thread/INFO]: Villager class_1646['Unemployed'/30254, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
 [02:16:12] [Server thread/INFO]: [Not Secure] [Server] hola
+[02:30:40] [Server thread/INFO]: [Not Secure] [Server] hola
