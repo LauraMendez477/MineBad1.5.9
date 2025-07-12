@@ -933,3 +933,7 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [03:27:33] [Server thread/INFO]: SimonPro74 fell from a high place
 [03:30:01] [Server thread/INFO]: SimonPro74 tried to swim in lava
 [03:34:36] [Server thread/INFO]: SimonPro74 was doomed to fall by Hoglin
+[03:40:55] [Server thread/INFO]: [Not Secure] [Server] hola
+[03:40:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:40:55] [Server thread/INFO]: <--[HERE]
+[03:59:40] [Server thread/INFO]: [Not Secure] [Server] hola
