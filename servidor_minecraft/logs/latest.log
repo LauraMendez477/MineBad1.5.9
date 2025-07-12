@@ -1030,3 +1030,14 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [04:34:18] [Server thread/INFO]: [Not Secure] [Server] hola
 [04:34:22] [Server thread/INFO]: [Not Secure] [Server] holaaaaaaaaaaaaaaaaaaaaaaaa
 [05:01:17] [Server thread/INFO]: Gave 64 [Sand] to SimonPro74
+[05:11:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:11:52] [Server thread/INFO]: give<--[HERE]
+[05:12:04] [Server thread/INFO]: Unknown item 'minecraft:concrete'
+[05:12:04] [Server thread/INFO]: ...imonpro74 minecraft:concrete 320<--[HERE]
+[05:12:18] [Server thread/INFO]: Unknown item 'minecraft:concrete'
+[05:12:18] [Server thread/INFO]: ...imonpro74 concrete 320<--[HERE]
+[05:12:51] [Server thread/INFO]: Unknown item 'minecraft:white'
+[05:12:51] [Server thread/INFO]: ...imonpro74 white concrete 320<--[HERE]
+[05:13:09] [Server thread/INFO]: Unknown item 'minecraft:251'
+[05:13:09] [Server thread/INFO]: ...imonpro74 251 320<--[HERE]
+[05:13:56] [Server thread/INFO]: Gave 320 [White Concrete] to SimonPro74
