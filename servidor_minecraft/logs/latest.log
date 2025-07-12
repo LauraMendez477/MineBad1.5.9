@@ -918,3 +918,4 @@ Caused by: java.io.IOException: Invalid tag id: 14
 	... 44 more
 [01:22:39] [Server thread/INFO]: SimonPro74 was shot by Skeleton
 [01:29:45] [Server thread/INFO]: SimonPro74 fell from a high place
+[01:45:21] [Server thread/INFO]: Villager class_1646['Unemployed'/21808, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
